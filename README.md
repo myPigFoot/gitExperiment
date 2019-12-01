@@ -1,5 +1,6 @@
 # gitExperiment
 Here's laboratory for git command exercise
+<<<<<<< HEAD
 1
 2
 3
